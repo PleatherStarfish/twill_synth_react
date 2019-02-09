@@ -1,0 +1,16 @@
+@import "global-styles.css";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Concert One', sans-serif;
+    color: var(--title-color);
+    letter-spacing: 0.3em;
+    font-size: 42pt;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+}

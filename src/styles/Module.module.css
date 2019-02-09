@@ -1,0 +1,12 @@
+.draggable {
+    width: 100px;
+    height: 200px;
+    float: left;
+    background-color: grey;
+    font-family: Helvetica, sans-serif;
+    color: white;
+    padding:10px;
+    margin: 10px;
+    border-radius: 10px;
+    position: absolute;
+}
